@@ -3,7 +3,7 @@
  
 int main()
 {
-  	char Str1[100];
+  	char Str1[1000];
   	int i;
  
   	printf("\n Please Enter a String that you want to Convert into Uppercase :  ");
